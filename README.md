@@ -1,1 +1,9 @@
-# Film-Sitesi
+# Film Sitesi
+
+
+
+
+# Libraries
+fontawsome 
+
+googlefonts 
